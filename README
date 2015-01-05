@@ -1,0 +1,15 @@
+-- App Detail --
+Till need to write comments
+Tested in Firefox & Chrome
+
+AngularJS built in validations with and without ngMessages using Form including common controls in angular's modal popup.
+
+-- Technical Detail --
+
+AngularJS VERSION 1.3.7
+AngularJS ui Bootstrap VERSION 0.12.0
+UI select2 VERSION 0.9.5
+Jquery VERSION 1.11.1
+
+Server
+Middleman
